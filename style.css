@@ -1,5 +1,5 @@
 html{
-  background: url(https://i.imgur.com/oYNKXQu.jpg) no-repeat center center fixed;
+  background: url("BeyondLightFull.png") no-repeat center center fixed;
   background-size: cover;
 }
 body{
@@ -36,10 +36,14 @@ body{
   left: 15%;
 }
 .img{
-  width: 100%;
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .timer{
   font-size: 6vw;
+  text-shadow: 3px 3px #000000;
   text-align: center;
   font-family: destinyFont;
   color: #ffffff;
