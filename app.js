@@ -8,7 +8,7 @@ s = 10;
 
 var timer = setInterval(function(){
 
-  var countDownDate = new Date("Sep 22, 2020 19:00:00").getTime();
+  var countDownDate = new Date("Nov 10, 2020 19:00:00").getTime();
   var now = new Date().getTime();
 
   var distance = countDownDate - now;
