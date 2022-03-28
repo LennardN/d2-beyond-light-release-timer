@@ -4,7 +4,6 @@ d = 14;
 h = 20;
 m = 32;
 s = 10;
-//created by Spackor
 
 var timer = setInterval(function(){
 
